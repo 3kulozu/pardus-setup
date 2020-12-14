@@ -1,0 +1,1 @@
+Run and allow  ./proje.py
